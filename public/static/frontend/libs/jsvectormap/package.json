@@ -34,8 +34,10 @@
   "bugs": {
     "url": "https://github.com/themustafaomar/jsvectormap/issues"
   },
-  "bundleDependencies": false,
-  "dependencies": {},
+  "bundleDependencies": [],
+  "dependencies": {
+    "jsvectormap": "file:"
+  },
   "deprecated": false,
   "description": "A lightweight Javascript library for creating interactive maps",
   "devDependencies": {
